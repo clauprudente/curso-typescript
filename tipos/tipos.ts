@@ -145,6 +145,7 @@ const contato1: Contato = {
   tel1: "98765432",
   tel2: null,
 };
+console.log(contato1);
 
 // Desafio: transformar javascript em typescript
 type ContaBancaria = {

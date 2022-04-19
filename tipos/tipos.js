@@ -112,6 +112,7 @@ const contato1 = {
     tel1: "98765432",
     tel2: null,
 };
+console.log(contato1);
 let contaBancaria = {
     saldo: 3456,
     depositar(valor) {
