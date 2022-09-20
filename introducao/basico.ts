@@ -1,1 +1,2 @@
-const a: string = "Teste TS!";
+const a: string = 'Teste TS!'
+console.log(a)
